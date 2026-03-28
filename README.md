@@ -1,8 +1,8 @@
 # Digital Literacy Project
 
-Name: soumya jain
+Name: Soumya Jain
 Reg No: 25BAI11459
-Branch: aiml
+Branch: AIML
 Year: 1st Year
 
 ## Tasks Completed
