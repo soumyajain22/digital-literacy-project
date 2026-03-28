@@ -1,4 +1,4 @@
-<img width="1916" height="877" alt="image" src="https://github.com/user-attachments/assets/49bded45-1558-4e19-b89a-cb35eb76c6a2" /># Digital Literacy Project
+# Digital Literacy Project
 
 Name: soumya jain
 Reg No: 25BAI11459
